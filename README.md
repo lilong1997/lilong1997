@@ -27,15 +27,6 @@ My current engineering path is:
 
 **Infrastructure / Operations → Automation → IaC → Kubernetes → GitOps → Observability → AI Infrastructure**
 
-I’m not focusing on AI algorithms.
-I’m more interested in the infrastructure side of AI systems:
-
-* How LLM services are deployed
-* How inference services are operated
-* How GPU resources are managed
-* How AI services are monitored
-* How cloud-native platforms support AI workloads
-
 ---
 
 ## 🛠️ Tech Stack
@@ -76,15 +67,16 @@ I’m more interested in the infrastructure side of AI systems:
 
 ### 1. LLM Serving on Kubernetes
 
-一个用于学习和实践 AI Infra 的项目，目标是在 Kubernetes 上部署高性能大模型推理服务。
+A hands-on project for learning and practicing AI Infrastructure.
+The goal is to deploy high-performance LLM inference services on Kubernetes.
 
-计划包含：
+Planned scope:
 
-* 使用 vLLM 部署开源大模型
-* 基于 Kubernetes 暴露推理 API
-* 接入 Prometheus / Grafana 监控
-* 支持压测、日志采集和基础容量评估
-* 输出完整部署文档和架构说明
+* Deploy open-source LLMs with vLLM
+* Expose inference APIs on Kubernetes
+* Integrate Prometheus / Grafana monitoring
+* Support load testing, log collection, and basic capacity evaluation
+* Provide complete deployment documentation and architecture notes
 
 > Status: In Progress
 
@@ -92,15 +84,15 @@ I’m more interested in the infrastructure side of AI systems:
 
 ### 2. Kubernetes Observability Lab
 
-一个面向生产实践的可观测性实验环境，用于模拟企业级 Kubernetes 监控体系。
+A production-oriented observability lab for simulating Kubernetes monitoring practices in enterprise environments.
 
-计划包含：
+Planned scope:
 
-* Prometheus 指标采集
-* Grafana Dashboard
-* Loki 日志采集
-* Alertmanager 告警规则
-* 常见故障场景演练
+* Prometheus metrics collection
+* Grafana dashboards
+* Loki log collection
+* Alertmanager alerting rules
+* Common failure scenario exercises
 
 > Status: In Progress
 
@@ -108,15 +100,15 @@ I’m more interested in the infrastructure side of AI systems:
 
 ### 3. DevOps Automation Toolkit
 
-沉淀日常运维和平台工程中的自动化脚本与工具。
+A toolkit for collecting practical automation scripts and tools for daily operations and platform engineering.
 
-可能包含：
+Possible contents:
 
-* Linux 运维脚本
-* Kubernetes 排障工具
-* CI/CD 模板
-* 日志分析脚本
-* 基础设施巡检脚本
+* Linux operation scripts
+* Kubernetes troubleshooting tools
+* CI/CD templates
+* Log analysis scripts
+* Infrastructure inspection scripts
 
 > Status: Planning
 
@@ -124,27 +116,15 @@ I’m more interested in the infrastructure side of AI systems:
 
 ## 📚 What I'm Learning
 
-最近我在系统学习：
+Recently, I have been systematically learning:
 
-* LLM 推理服务架构
+* LLM inference service architecture
 * vLLM / PagedAttention / KV Cache
-* GPU 基础知识与显存管理
-* Kubernetes GPU 调度
-* Ray / KServe / Triton 等 AI 平台组件
-* 大模型私有化部署方案
-* AI Infra 在国内企业中的落地场景
-
----
-
-## ✍️ Notes & Writing
-
-我会把学习过程中的内容整理成文章和项目文档，包括：
-
-* AI Infra 学习路线
-* Kubernetes 部署 LLM 服务实践
-* vLLM 部署和性能测试
-* GPU 资源利用率分析
-* 云原生工程师转型 AI Infra 的经验总结
+* GPU fundamentals and memory management
+* Kubernetes GPU scheduling
+* AI platform components such as Ray, KServe, and Triton
+* Private LLM deployment solutions
+* AI Infrastructure adoption scenarios in Chinese enterprise environments
 
 ---
 
