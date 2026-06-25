@@ -163,4 +163,3 @@ I’m organizing notes around:
 > Infrastructure is not just about running systems.
 > It is about making complex systems reliable, observable, and scalable.
 
-我正在把传统基础设施经验迁移到 AI Infra 场景中，持续构建自己的工程能力和项目作品集。
