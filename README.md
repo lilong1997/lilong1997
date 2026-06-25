@@ -1,67 +1,74 @@
 # Hi, I'm Long Li 👋
 
-我是一名基础设施方向的工程师，长期关注 **云原生、Kubernetes、DevOps/SRE、可观测性**，目前正在向 **AI Infrastructure / LLM Serving / GPU 集群运维** 方向转型。
+I'm an Infrastructure & Operations Engineer based in Shanghai, China.
 
-我希望把过去在企业基础设施、自动化运维、平台工程方面的经验，迁移到 AI 时代的新基础设施场景中：让模型服务更稳定、更高效、更易部署、更易观测。
+My background is in **infrastructure operations, automation, DevOps, IaC, cloud-native technologies, and observability**.
+Currently, I’m expanding my work toward **Kubernetes, GitOps, and AI Infrastructure**.
 
----
-
-## 🔭 Currently Working On
-
-* Kubernetes 集群管理与云原生基础设施
-* CI/CD、自动化运维与平台工程实践
-* Prometheus / Grafana / Loki 等可观测性体系
-* AI Infra 学习与实践，包括：
-
-  * vLLM / Ollama / Triton Inference Server
-  * GPU 资源调度与推理服务部署
-  * LLM Serving on Kubernetes
-  * 私有化大模型部署与运维
+I’m interested in building reliable, automated, observable, and maintainable infrastructure systems.
 
 ---
 
-## 🧭 My Career Focus
+## 🔭 Current Focus
 
-我正在重点探索以下方向：
+* Infrastructure automation
+* IaC with Terraform
+* Kubernetes operations
+* GitOps with Argo CD
+* CI/CD workflow improvement
+* Prometheus / Grafana observability
+* LLM deployment and AI Infrastructure
 
-* **AI Infrastructure Engineer**
-* **LLM Platform Engineer**
-* **Cloud Native / Kubernetes Engineer**
-* **SRE / DevOps Engineer**
-* **Private Cloud AI Platform Engineer**
+---
 
-我相信 AI Infra 不是完全从零开始的新领域，而是云原生、分布式系统、资源调度、性能优化和工程稳定性的延伸。
+## 🧭 Direction
+
+My current engineering path is:
+
+**Infrastructure / Operations → Automation → IaC → Kubernetes → GitOps → Observability → AI Infrastructure**
+
+I’m not focusing on AI algorithms.
+I’m more interested in the infrastructure side of AI systems:
+
+* How LLM services are deployed
+* How inference services are operated
+* How GPU resources are managed
+* How AI services are monitored
+* How cloud-native platforms support AI workloads
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Cloud Native & Infrastructure
+### Infrastructure & Automation
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-
-### DevOps & SRE
-
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square\&logo=ansible\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+### DevOps / IaC / GitOps
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square\&logo=argo\&logoColor=white)
 
-### Observability
+### Cloud Native & Observability
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square\&logo=helm\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=flat-square\&logo=elastic\&logoColor=white)
 
 ### AI Infrastructure
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square\&logo=nvidia\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square\&logo=ollama\&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-222222?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
+![NVIDIA](https://img.shields.io/badge/GPU_Basics-76B900?style=flat-square\&logo=nvidia\&logoColor=white)
 
 ---
 
@@ -138,6 +145,20 @@
 * vLLM 部署和性能测试
 * GPU 资源利用率分析
 * 云原生工程师转型 AI Infra 的经验总结
+
+---
+
+## 📚 Learning Notes
+
+I’m organizing notes around:
+
+* DevOps automation
+* Terraform / IaC
+* Kubernetes operations
+* GitOps with Argo CD
+* Prometheus / Grafana
+* LLM serving
+* AI Infrastructure
 
 ---
 
